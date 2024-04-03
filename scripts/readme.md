@@ -1,1 +1,1 @@
-### Highway with My DQN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amirah1360/HighwayEnv/blob/master/scripts/sb3_highway_dqn.ipynb)
+### Highway with My DQN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amirah1360/Highway/blob/master/scripts/My_DQN_highway_sb3_1.ipynb)
